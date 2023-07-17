@@ -33,13 +33,16 @@ using <details></details> to attribute to make the section display as open by de
 
 </details>
 
+<!-- 
+if we would like to add an image use the following code
+
 Inline-style: 
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "First Logo ")
 
 Reference-style: 
 ![alt text][logo]
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Second Logo"
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Second Logo" -->
 
 ---
 > QUOTE
