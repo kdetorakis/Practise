@@ -27,7 +27,9 @@ using <details></details> to attribute to make the section display as open by de
 |-----:|-----------|
 |     1|HTML/CSS/JS|
 |     2|C/C++      |
-|     3|Java       |
+|     4|React      |
+|     5|SQL        |
+|     6|ASCII      |
 
 </details>
 
