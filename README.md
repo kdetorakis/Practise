@@ -103,7 +103,7 @@ using <details></details> to attribute to make the section display as open by de
 |     30|Julia      | A high-level, high-performance language for scientific computing and data analysis. Designed for numerical and computational work. Offers a rich ecosystem of packages for various scientific domains. |
 |     31|Dart       | Developed by Google, Dart is used for building cross-platform mobile, web, and desktop apps. Frequently used with the Flutter framework for mobile app development. Knowledge of object-oriented programming is beneficial for Dart. |
 |     32|MATLAB Simulink | Widely used for system-level programming, game development, and performance-critical applications. Offers low-level control and high performance. |
-|     33|C#         | Developed by Microsoft for Windows application development. Popular for building desktop applications, games, and mobile apps.|
+<!-- |     33|C#         | Developed by Microsoft for Windows application development. Popular for building desktop applications, games, and mobile apps.|
 |     34|C++        | Widely used for system-level programming, game development, and performance-critical applications. Offers low-level control and high performance. |
 |     35|C#         | Developed by Microsoft for Windows application development. Popular for building desktop applications, games, and mobile apps.|
 |     36|C++        | Widely used for system-level programming, game development, and performance-critical applications. Offers low-level control and high performance. |
@@ -149,4 +149,4 @@ using <details></details> to attribute to make the section display as open by de
 |     76|C++        | Widely used for system-level programming, game development, and performance-critical applications. Offers low-level control and high performance. |
 |     77|C#         | Developed by Microsoft for Windows application development. Popular for building desktop applications, games, and mobile apps.|
 |     78|C++        | Widely used for system-level programming, game development, and performance-critical applications. Offers low-level control and high performance. |
-|     79|C#         | Developed by Microsoft for Windows application development. Popular for building desktop applications, games, and mobile apps.|
+|     79|C#         | Developed by Microsoft for Windows application development. Popular for building desktop applications, games, and mobile apps.| -->
