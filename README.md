@@ -33,8 +33,7 @@ using <details></details> to attribute to make the section display as open by de
 
 </details>
 
-
-Colons can be used to align columns.
+<!-- Colons can be used to align columns. -->
 
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
@@ -42,13 +41,12 @@ Colons can be used to align columns.
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 
-The outer pipes (|) are optional, and you don't need to make the raw Markdown line up prettily. You can also use inline Markdown.
+<!-- The outer pipes (|) are optional, and you don't need to make the raw Markdown line up prettily. You can also use inline Markdown. -->
 
 Markdown | Less | Pretty | Ugly
 --- | --- | --- | ---
 *Still* | `renders` | **nicely** | ~~or not~~
 *1* | `2` | **3** | 4
-
 
 <!-- 
 if we would like to add an image use the following code
