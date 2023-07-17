@@ -50,6 +50,9 @@ using <details></details> to attribute to make the section display as open by de
     normal        ------
 -->
 
+<details>
+<summary>Examples of styles</summary>
+
 | Tables        |      Are      |  Cool |
 | ------------- | :-----------: | ----: |
 | col 3 is      | right-aligned | $1600 |
@@ -63,6 +66,7 @@ using <details></details> to attribute to make the section display as open by de
 | _Still_  | `renders` | **nicely** | ~~or not~~ |
 | _1_      | `2`       | **3**      | 4          |
 
+</details>
 <!--
 if we would like to add an image use the following code
 
