@@ -18,9 +18,13 @@ Hi, I'm Kostas 🖐 !!!
 
 [//]: # (usign <summary> for drop down kind of menu without using it its a simple list)
 
-<details open>
+<details>
+<summary>My top languages</summary>
+  
 | Rank | Languages | 
 |-----:|-----------|
 |     1|HTML/CSS/JS|
 |     2|C/C++      |
 |     3|Java       |
+
+</details>
