@@ -67,21 +67,3 @@ using <details></details> to attribute to make the section display as open by de
 | _1_      | `2`       | **3**      | 4          |
 
 </details>
-<!-- 
-if we would like to add an image use the following code -->
-
-<!--
-Inline-style:
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "First Logo ")
-
-Reference-style:
-![alt text][logo]
-
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Second Logo" -->
-<!-- using it for quotes not that important -->
-<!-- ---
-
-> QUOTE
-> Ἓν οἶδα ὅτι οὐδὲν οἶδα
-
-- Sokrates -->
