@@ -16,7 +16,9 @@
 ## About me
 Hi, I'm Kostas 🖐 !!!
 
-[//]: # (usign <summary> for drop down kind of menu without using it its a simple list)
+[//]: # ()
+[//]: # (usign <summary> for marking it like a drop down list)
+[//]: # (using <details></details> to attribute to make the section display as open by default)
 
 <details>
 <summary>My top languages</summary>
