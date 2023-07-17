@@ -73,11 +73,10 @@ using <details></details> to attribute to make the section display as open by de
   
 | Order | Languages | Description |
 |------:|-----------|-------------|
-|      1|React      | React. js is an open-source JavaScript library that is    used for building user interfaces specifically for single-page applications. It's used for 
-                      handling the view layer for web and mobile apps. React also allows us to create reusable UI components. |
-|      2|Angular    |  Angular is an open-source, JavaScript framework written in TypeScript. Google maintains it, and its primary purpose is to develop single-page applications. As a framework, Angular has clear advantages while also providing a standard structure for developers to work with. |
-|      4|Ajax       | AJAX is a technique for creating fast and dynamic web pages. AJAX allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
-|      5|SQL        | The Ruby programming language is a highly portable general-purpose language that serves many purposes. Ruby is great for building desktop applications, static websites, data processing services, and even automation tools. It's used for web servers, DevOps, and web scraping and crawling. |
-|      6|ASCII      |  ASCII (American Standard Code for Information Interchange) is the most common character encoding format for text data in computers and on the internet. In standard ASCII-encoded data, there are unique values for 128 alphabetic, numeric or special additional characters and control codes. |
+|      1|React      | React. js is an open-source JavaScript library that is used for building user interfaces specifically for single-page applications. |
+|      2|Angular    |  Angular is an open-source, JavaScript framework written in TypeScript Google maintains it. |
+|      4|Ajax       | AJAX is a technique for creating fast and dynamic web pages. AJAX allows web pages to be updated asynchronously. |
+|      5|SQL        | The Ruby programming language is a highly portable general-purpose language that serves many purposes. |
+|      6|ASCII      |  ASCII is the most common character encoding format for text data in computers and on the internet. |
 </details>
 
