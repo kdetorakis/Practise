@@ -16,13 +16,13 @@
 
 # Hi there
 
-<!-- using for Adding an image to suit your visitors either they use dark mode or light to their browser 
+<!-- using for Adding an image to suit your visitors either they use dark mode or light to their browser -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
   <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </picture>
--->
+
 ## About me
 
 Hi, I'm Kostas 🖐 !!!
@@ -70,7 +70,7 @@ using <details></details> to attribute to make the section display as open by de
 
 ### Technologies - Languages
 
-<!-- | 
+| 
 | Order | Languages | Description |
 |------:|-----------|-------------|
 |      1|React      | React. js is an open-source JavaScript library that is used for building user interfaces specifically for single-page applications. |
@@ -91,7 +91,7 @@ using <details></details> to attribute to make the section display as open by de
 |     17|Rust       | Designed for systems programming with a focus on safety and performance. Memory safety is enforced at compile time, reducing the risk of bugs. |
 |     18|Kotlin     | A modern language used for Android development and general-purpose programming. Offers interoperability with Java and a concise syntax. |
 |     19|Scala      | Combines object-oriented and functional programming paradigms. Used in scalable and high-performance systems, especially with Apache Spark. |
-|     20|MATLAB     | Primarily used for numerical computing, data analysis, and visualization. Features an extensive set of built-in tools and libraries for scientific computing.|
+<!--|     20|MATLAB     | Primarily used for numerical computing, data analysis, and visualization. Features an extensive set of built-in tools and libraries for scientific computing.|
 |     21|R          | Popular language for statistical computing and graphics. Widely used in data analysis, machine learning, and research fields. |
 |     22|HTML/CSS   | HTML is the standard markup language for creating web pages. CSS is used for styling and layout of web pages. |
 |     23|Bash       | Used for automating tasks and writing scripts in a command-line environment. Vital for system administration and managing Unix/Linux systems.|
