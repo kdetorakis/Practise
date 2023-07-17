@@ -30,3 +30,9 @@ using <details></details> to attribute to make the section display as open by de
 |     3|Java       |
 
 </details>
+
+---
+
+> QUOTE
+> Ἓν οἶδα ὅτι οὐδὲν οἶδα
+- Sokrates
