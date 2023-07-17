@@ -70,7 +70,6 @@ using <details></details> to attribute to make the section display as open by de
 
 ### Technologies - Languages
 
-| 
 | Order | Languages | Description |
 |------:|-----------|-------------|
 |      1|React      | React. js is an open-source JavaScript library that is used for building user interfaces specifically for single-page applications. |
