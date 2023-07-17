@@ -31,6 +31,17 @@ using <details></details> to attribute to make the section display as open by de
 
 </details>
 
+<details>
+<summary>My top languages</summary>
+  
+| Rank | Languages | 
+|-----:|-----------|
+|     1|HTML/CSS/JS|
+|     2|C/C++      |
+|     3|Java       |
+
+</details>
+
 ---
 
 > QUOTE
