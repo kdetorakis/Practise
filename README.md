@@ -31,7 +31,6 @@ using <details></details> to attribute to make the section display as open by de
 
 </details>
 
-
 Inline-style: 
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "First Logo ")
 
@@ -41,9 +40,7 @@ Reference-style:
 [logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Second Logo"
 
 
-
----
-
 > QUOTE
 > Ἓν οἶδα ὅτι οὐδὲν οἶδα
+
 - Sokrates
