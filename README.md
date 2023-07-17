@@ -78,10 +78,10 @@ Reference-style:
 ![alt text][logo]
 
 [logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Second Logo" -->
-
----
+<!-- using it for quotes not that important -->
+<!-- ---
 
 > QUOTE
 > Ἓν οἶδα ὅτι οὐδὲν οἶδα
 
-- Sokrates
+- Sokrates -->
