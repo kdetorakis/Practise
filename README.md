@@ -36,7 +36,8 @@ using <details></details> to attribute to make the section display as open by de
 <!-- Colons can be used to align columns. 
     right aligned -----: 
     centered      :----: 
-    normal        ------ -->
+    normal        ------ 
+-->
 
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
