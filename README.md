@@ -46,4 +46,4 @@ Reference-style:
 
 > QUOTE
 > Ἓν οἶδα ὅτι οὐδὲν οἶδα
- Sokrates
+-- Sokrates
