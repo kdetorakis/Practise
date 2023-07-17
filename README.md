@@ -17,5 +17,5 @@ Hi, I'm Kostas 🖐 !!!
 | Rank | Languages | 
 |-----:|-----------|
 |     1|HTML/CSS/JS|
-|     2|REACT      |
+|     2|Java       |
 |     3|SQL        |
