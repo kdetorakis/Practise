@@ -46,8 +46,8 @@ The outer pipes (|) are optional, and you don't need to make the raw Markdown li
 
 Markdown | Less | Pretty
 --- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
+*Still* | `renders` | **nicely** | ~~or not~~
+1 | 2 | 3 | 4
 
 
 <!-- 
