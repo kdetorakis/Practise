@@ -33,7 +33,7 @@ using <details></details> to attribute to make the section display as open by de
 
 
 Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "First Logo ")
 
 Reference-style: 
 ![alt text][logo]
