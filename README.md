@@ -68,8 +68,7 @@ using <details></details> to attribute to make the section display as open by de
 
 </details>
 
-<details>
-<summary>Technologies - Languages</summary>
+###Technologies - Languages
   
 | Order | Languages | Description |
 |------:|-----------|-------------|
@@ -78,5 +77,5 @@ using <details></details> to attribute to make the section display as open by de
 |      4|Ajax       | AJAX is a technique for creating fast and dynamic web pages. AJAX allows web pages to be updated asynchronously. |
 |      5|SQL        | The Ruby programming language is a highly portable general-purpose language that serves many purposes. |
 |      6|ASCII      |  ASCII is the most common character encoding format for text data in computers and on the internet. |
-</details>
+
 
