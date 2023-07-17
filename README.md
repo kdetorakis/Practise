@@ -10,3 +10,9 @@
 
 ## About me
 Hi, I'm Kostas 🖐 !!!
+
+| Rank | Languages | 
+|-----:|-----------|
+|     1|HTML/CSS/JS|
+|     2|REACT      |
+|     3|SQL        |
