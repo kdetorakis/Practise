@@ -51,7 +51,7 @@ using <details></details> to attribute to make the section display as open by de
 -->
 
 <details>
-<summary>Examples of styles</summary>
+<summary>Examples of styles press to expand</summary>
 
 | Tables        |      Are      |  Cool |
 | ------------- | :-----------: | ----: |
@@ -67,9 +67,10 @@ using <details></details> to attribute to make the section display as open by de
 | _1_      | `2`       | **3**      | 4          |
 
 </details>
-<!--
-if we would like to add an image use the following code
+<!-- 
+if we would like to add an image use the following code -->
 
+<!--
 Inline-style:
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "First Logo ")
 
