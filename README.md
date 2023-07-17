@@ -39,7 +39,7 @@ Reference-style:
 
 [logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Second Logo"
 
-
+---
 > QUOTE
 > Ἓν οἶδα ὅτι οὐδὲν οἶδα
 
