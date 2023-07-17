@@ -68,15 +68,15 @@ using <details></details> to attribute to make the section display as open by de
 
 </details>
 
-<details>
+
 <summary>Technologies - Languages</summary>
   
 | Order | Languages | Description |
 |------:|-----------|-------------|
-|      1|React      | React. js is an open-source JavaScript library that is    used for building user interfaces specifically for single-page applications. It's used for handling the view layer for web and mobile apps. React also allows us to create reusable UI components.           |
+|      1|React      | React. js is an open-source JavaScript library that is    used for building user interfaces specifically for single-page applications. It's used for handling the view layer for web and mobile apps. React also allows us to create reusable UI components. |
 |      2|C/C++      |             |
 |      4|React      |             |
 |      5|SQL        |             |
 |      6|ASCII      |             |
 
-</details>
+
