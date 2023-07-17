@@ -1,10 +1,17 @@
 # Practise
+
+<!-- https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github -->
 <!-- using from 1 to 5 # as in html file -->
-##### Hiiiii thereeeee 
+
+##### Hiiiii thereeeee
+
 #### Hiiii thereeee
+
 ### Hiii thereee
+
 ## Hii theree
-# Hi there 
+
+# Hi there
 
 <!-- using for Adding an image to suit your visitors either they use dark mode or light to their browser -->
 <picture>
@@ -14,10 +21,11 @@
 </picture>
 
 ## About me
+
 Hi, I'm Kostas 🖐 !!!
 
-<!-- 
-usign <summary> for marking it like a drop down list 
+<!--
+usign <summary> for marking it like a drop down list
 using <details></details> to attribute to make the section display as open by default -->
 
 <details>
@@ -33,37 +41,38 @@ using <details></details> to attribute to make the section display as open by de
 
 </details>
 
-<!-- Colons can be used to align columns. 
-    right aligned -----: 
-    centered      :----: 
-    normal        ------ 
+<!-- Colons can be used to align columns.
+    right aligned -----:
+    centered      :----:
+    normal        ------
 -->
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
+| Tables        |      Are      |  Cool |
+| ------------- | :-----------: | ----: |
 | col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| col 2 is      |   centered    |   $12 |
+| zebra stripes |   are neat    |    $1 |
 
 <!-- The outer pipes (|) are optional, and you don't need to make the raw Markdown line up prettily. You can also use inline Markdown. -->
 
-Markdown | Less | Pretty | Ugly
---- | --- | --- | ---
-*Still* | `renders` | **nicely** | ~~or not~~
-*1* | `2` | **3** | 4
+| Markdown | Less      | Pretty     | Ugly       |
+| -------- | --------- | ---------- | ---------- |
+| _Still_  | `renders` | **nicely** | ~~or not~~ |
+| _1_      | `2`       | **3**      | 4          |
 
-<!-- 
+<!--
 if we would like to add an image use the following code
 
-Inline-style: 
+Inline-style:
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "First Logo ")
 
-Reference-style: 
+Reference-style:
 ![alt text][logo]
 
 [logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Second Logo" -->
 
 ---
+
 > QUOTE
 > Ἓν οἶδα ὅτι οὐδὲν οἶδα
 
